@@ -1,0 +1,15 @@
+.navbar{
+    background-color: antiquewhite;
+    height:30px;
+    width:100%;
+
+    .navbar-content{
+        margin:3px 5px ;
+        li{
+            list-style: none;
+        }
+        a{
+            margin-right: 5px;
+        }
+    }
+}
